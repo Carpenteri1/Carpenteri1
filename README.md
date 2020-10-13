@@ -11,7 +11,7 @@
 ### Skills 
 | C#                   | :white_check_mark:    |                      |    
 |:--------------------:|:---------------------:|:---------------------:
-| Dot net              | :white_check_mark:    |[](https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif)|
+| Dot net              | :white_check_mark:    |![](https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif)|
 | Java                 | :white_check_mark:    |                      |
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |           
