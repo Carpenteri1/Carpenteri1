@@ -4,6 +4,6 @@
 - ⚡ Fun fact: ... I enjoy gardening
 
 ### Skills 
-- c# ![80%](https://progress-bar.dev/50)
+- C# ![80%](https://progress-bar.dev/50)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niclastimle89&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
