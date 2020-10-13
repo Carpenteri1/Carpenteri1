@@ -7,7 +7,7 @@
 - 🎓 Want to learn more about java and c++
 - ⚡ Fun fact: ... Love gaming and maybe a bit to crazy over cats
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp; <img src="https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif" width="50" height=50/>
+&nbsp;                                    &nbsp;  &nbsp;  &nbsp; <img src="https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif" width="50" height=50/>
 ### Skills 
 | C#                   | :white_check_mark:    |                       
 |:--------------------:|:---------------------:|
