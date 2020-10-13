@@ -9,7 +9,7 @@
 | C#                   | :white_check_mark:    |   
 |:--------------------:|:---------------------:|
 | Dot net              | :white_check_mark:    |
-| Java                 | :white_check_mark:    | $~~~~~~~~~~~$![](https://media4.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)$~~~~~~~~~~~$
+| Java                 | :white_check_mark:    | $~~~~~~~~~~~$                             $~~~~~~~~~~~$![](https://media4.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |
 
