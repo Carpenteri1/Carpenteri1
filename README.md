@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning ... [Advanced asp net](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/)
 - 💬 Ask me about c# and webdevelopment 
 - 🎓 Want to learn more about java and c++
-- ⚡ Fun fact: ... Love gaming
+- ⚡ Fun fact: ... Love gaming and maybe a bit to crazy over cats
 
 ### Skills 
 | C#                   | :white_check_mark:    |   
 |:--------------------:|:---------------------:|
 | Dot net              | :white_check_mark:    |
-| Java                 | :white_check_mark:    |
+| Java                 | :white_check_mark:    |                      ![](https://giphy.com/gifs/cat-sushi-pusheen-the-tN1YiOeZmIRKE)
 | Html                 | :white_check_mark:    |
 | Javascript           | :white_check_mark:    |
