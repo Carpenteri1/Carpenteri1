@@ -1,4 +1,4 @@
-### Hi there, welcome to my github page 👋 
+### Welcome to my github page 👋 
 
 
 - 🔭 I’m currently working on ... [Weather app project](https://github.com/Carpenteri1/WeatherApp)
