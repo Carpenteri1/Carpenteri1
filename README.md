@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning ... [Advanced asp net](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/)
 - 💬 Ask me about c# and webdevelopment 
 - 🎓 Want to learn more about java and c++, also progress the skill I already have
-- ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 - 
+- ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
 
 ### Skills &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/>
