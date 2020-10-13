@@ -1,10 +1,10 @@
-### Hi there, welcome to my github page 👋
+### Hi there, welcome to my github page 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;  &nbsp; <img src="https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif" width="100" height=100/> 
+
 - 🔭 I’m currently working on ... [Weather app project](https://github.com/Carpenteri1/WeatherApp)
 - 🌱 I’m currently learning ... [Advanced asp net](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/)
 - 💬 Ask me about c# and webdevelopment 
 - 🎓 Want to learn more about java and c++
-- ⚡ Fun fact: ... Love gaming and maybe a bit to crazy over cats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;  &nbsp; <img src="https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif" width="100" height=100/> 
-
+- ⚡ Fun fact: ... Love gaming and maybe a bit to crazy over cats
 ### Skills 
 | C#                   | :white_check_mark:    |                       
 |:--------------------:|:---------------------:|
