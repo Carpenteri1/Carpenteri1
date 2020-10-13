@@ -10,6 +10,7 @@
 
 ### Skills 
 <img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/>
+
 |:--------------------:|:---------------------:|
 | C#                   | :white_check_mark:    |                       
 |:--------------------:|:---------------------:|
