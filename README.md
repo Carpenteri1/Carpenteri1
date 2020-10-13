@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... Love gaming and maybe a bit to crazy over cats
 
 
-### Skills &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.giphy.com/media/9vzM2O7lztv8I/giphy.webp" width="80" height=80/>
+### Skills &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="80" height=80/>
 | C#                   | :white_check_mark:    |                       
 |:--------------------:|:---------------------:|
 | Dot net              | :white_check_mark:    |
