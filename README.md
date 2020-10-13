@@ -11,7 +11,7 @@
 ### Skills &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/>
 | C#                   | :white_check_mark:    |                       
 |:--------------------:|:---------------------:|
-| Dot net              | :white_check_mark:    |
+| Dot net              | :white_check_mark:    |[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 | Java                 | :white_check_mark:    |             
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |           
