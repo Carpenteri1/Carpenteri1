@@ -4,7 +4,6 @@
 - ⚡ Fun fact: ... I enjoy gardening
 
 ### Skills 
-|:--------------------:|:---------------------:|
 | C#                   | :white_check_mark:    |   
 |:--------------------:|:---------------------:|
 | Dot net              | :white_check_mark:    |
