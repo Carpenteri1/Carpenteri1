@@ -5,7 +5,10 @@
 
 ### Skills 
 - C# :white_check_mark:
-- Java
+- dot net :white_check_mark:
+- Java :white_check_mark:
+- Html :white_check_mark:
+- Javascript :white_check_mark:
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niclastimle89&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
