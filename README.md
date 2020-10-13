@@ -12,7 +12,4 @@
 | Java                 | :white_check_mark:    | 
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |
-
-
-
-$~~~~~~~~~~~$                             $~~~~~~~~~~~$![](https://media4.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
+|:--------------------------------------------:|![](https://media4.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
