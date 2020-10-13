@@ -5,10 +5,13 @@
 - 🎓 Want to learn more about java and c++
 - ⚡ Fun fact: ... Love gaming and maybe a bit to crazy over cats
 
+
+
+                                                                                                ![](https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif)
 ### Skills 
 | C#                   | :white_check_mark:    |   
 |:--------------------:|:---------------------:|
 | Dot net              | :white_check_mark:    |
 | Java                 | :white_check_mark:    | 
 | Html                 | :white_check_mark:    |                                        
-| Javascript           | :white_check_mark:    |                                  ![](https://media4.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
+| Javascript           | :white_check_mark:    |                                
