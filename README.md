@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning ... [Advanced asp net](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/)
 - 💬 Ask me about c# and webdevelopment 
 - 🎓 Want to learn more about java and c++, also progress the skill I already have
-- 
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
 
