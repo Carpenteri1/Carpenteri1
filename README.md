@@ -16,4 +16,4 @@
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |           
                      
-[![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1)](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S)
