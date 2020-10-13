@@ -8,7 +8,7 @@
 
 
 ![](https://media2.giphy.com/media/tN1YiOeZmIRKE/giphy.gif)         ### Skills 
-                                                                    | C#                   | :white_check_mark:    |   
+$~~~~~~~~~~~$                                                       | C#                   | :white_check_mark:    |   
                                                                     |:--------------------:|:---------------------:|
                                                                     | Dot net              | :white_check_mark:    |
                                                                     | Java                 | :white_check_mark:    | 
