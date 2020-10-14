@@ -12,6 +12,7 @@
 |:--------------------:|:---------------------:|            
 | DotNet               | :white_check_mark:    |            
 | AspNet               | :white_check_mark:    |
+| AdoNet               | :white_check_mark:    |
 | Sql                  | :white_check_mark:    |
 | T-Sql                | :white_check_mark:    |
 | Java                 | :white_check_mark:    |             
