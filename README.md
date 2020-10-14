@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... [Weather app project](https://github.com/Carpenteri1/WeatherApp)
 - 🌱 I’m currently learning ... [Advanced asp net](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/)
 - 💬 Ask me about c# and webdevelopment 
-- 🎓 Want to learn more about java and c++, also progress the skill I already have
+- 🎓 Want to learn more about [WPF](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019) and [Xamarin ](https://docs.microsoft.com/en-us/xamarin/)
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
 
