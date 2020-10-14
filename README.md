@@ -18,4 +18,4 @@
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |        
                         
-<img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/> ![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
+![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)<img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/> 
