@@ -12,7 +12,7 @@
 | C#                   | :white_check_mark:    |                       
 |:--------------------:|:---------------------:|
 | Dot net              | :white_check_mark:    |
-| Java                 | :white_check_mark:    |                <img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/>     
+| Java                 | :white_check_mark:    |       hello         <img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/>     
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |        
    
