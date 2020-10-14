@@ -11,14 +11,12 @@
 | C#                   | :white_check_mark:    |                            
 |:--------------------:|:---------------------:|            
 | DotNet               | :white_check_mark:    |            
-| AspNet               | :white_check_mark:    |
-| AdoNet               | :white_check_mark:    |
 | Sql                  | :white_check_mark:    |
 | T-Sql                | :white_check_mark:    |
 | Java                 | :white_check_mark:    |             
 | Html                 | :white_check_mark:    |                                        
-| Javascript           | :white_check_mark:    |        
-                      
+| CSS.                 | :white_check_mark:    |      
+| Javascript           | :white_check_mark:    |
+  
 <img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/> 
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
