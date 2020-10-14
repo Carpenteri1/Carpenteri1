@@ -8,10 +8,9 @@
 - 💡   Things I want to try... Test automation using an API, Create a music/videoplayer for youtube,twitch,spotify or someother platform
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
-
-| C#                   | :white_check_mark:    |            |<img src="https://i.giphy.com/media/eZsKqkZUEM5vG/200.webp" width="100" height=80/>|                    
-|:--------------------:|:---------------------:|            |:---------------------:|     
-| Dot net              | :white_check_mark:    |            |                       |
+| C#                   | :white_check_mark:    |                            
+|:--------------------:|:---------------------:|            
+| Dot net              | :white_check_mark:    |            
 | Java                 | :white_check_mark:    |             
 | Html                 | :white_check_mark:    |                                        
 | Javascript           | :white_check_mark:    |        
