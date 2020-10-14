@@ -5,7 +5,7 @@
 - 🎓 I’m currently learning ... [Advanced asp net](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/)
 - 💬 Ask me about... c# and webdevelopment T
 - 📖 Want to learn more about... [WPF](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019), [Xamarin ](https://docs.microsoft.com/en-us/xamarin/), [C++](https://docs.microsoft.com/en-us/cpp/cpp/?view=vs-2019), [Java](https://docs.oracle.com/en/java/) and progress the skill I already have
-- 🏆 Things I want to try... Test automation using an API, Create a music/videoplayer for youtube,twitch,spotify or someother platform
+- 💡  Things I want to try... Test automation using an API, Create a music/videoplayer for youtube,twitch,spotify or someother platform
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
 
