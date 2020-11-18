@@ -1,5 +1,6 @@
 ### Welcome to my github page 🖖 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
 
 - 🔭 I’m currently working on ... [Nothing I can announce]() 
 - 🎓 I’m currently learning ... More about [Bootstrap](https://getbootstrap.com/) 
@@ -17,4 +18,3 @@
 | Javascript           | :white_check_mark:    |
 | Bootstrap            | :white_check_mark:    |
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
