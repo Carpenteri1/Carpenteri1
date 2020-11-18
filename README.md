@@ -9,8 +9,9 @@
 - 💡 Things I want to try... Test automation using an API
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
-| C#                   | :white_check_mark:    |                            
-|:--------------------:|:---------------------:|            
+| Knowlage             | 🎓                    |
+|:--------------------:|:---------------------:|     
+| C#                   | :white_check_mark:    |                                   
 | DotNet               | :white_check_mark:    |            
 | Sql / T-Sql          | :white_check_mark:    |
 | Java                 | :white_check_mark:    |             
