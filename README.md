@@ -15,5 +15,6 @@
 | Java                 | :white_check_mark:    |             
 | Html / CSS           | :white_check_mark:    |                                           
 | Javascript           | :white_check_mark:    |
+| Bootstrap            | :white_check_mark:    |
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
