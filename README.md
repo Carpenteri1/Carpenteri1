@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... [private projects]() 
 - 🎓 I’m currently learning ... More about [Security](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-5.0) 
 - 💬 Ask me about... Anything
-- 📖 Want to learn more about... [DotNet](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Azure](https://azure.microsoft.com/en-us/) , [Linux](https://www.kernel.org/doc/html/latest/)
+- 📖 Want to learn more about... [DotNet](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Azure](https://azure.microsoft.com/en-us/) , [Linux](https://www.kernel.org/doc/html/latest/) and [C++](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-160)
 - 💡 Things I want to try... Test automation using an API
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
