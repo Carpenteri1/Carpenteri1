@@ -11,10 +11,10 @@
 
 | Knowlage             | 🎓                    |
 |:--------------------:|:---------------------:|     
-| C#                   | :white_check_mark:    |                                   
+| C#                   | :white_check_mark:    | 
+| Java                 | :white_check_mark:    |   
 | .Net                 | :white_check_mark:    |            
-| Sql/T-Sql/Mysql      | :white_check_mark:    |
-| Java                 | :white_check_mark:    |             
+| Sql/T-Sql/Mysql      | :white_check_mark:    |          
 | Html/CSS/Javascript  | :white_check_mark:    |                                           
 | Bootstrap            | :white_check_mark:    |
 
