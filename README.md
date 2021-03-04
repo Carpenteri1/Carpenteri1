@@ -1,6 +1,6 @@
 ### Welcome to my github page 🖖 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories), 
+![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
 
 - 🔭 I’m currently working on ... [private projects](), but [this project](https://github.com/Carpenteri1/WeatherApp) is running on the same framework
 - 🎓 I’m currently learning ... More about [.Net](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) 
