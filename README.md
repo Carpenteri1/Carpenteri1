@@ -9,14 +9,14 @@
 - 💡 Things I want to try... Test automation using an API
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
-| My Pokémon's         |   :mortar_board:      |
-|:--------------------:|:---------------------:|     
-| C#                   | :white_check_mark:    | 
-| Java                 | :white_check_mark:    |   
-| .Net                 | :white_check_mark:    |
-| Asp Net              | :white_check_mark:    |    
-| Sql/T-Sql/Mysql      | :white_check_mark:    |          
-| Html/CSS/Javascript  | :white_check_mark:    |                                           
-| Bootstrap            | :white_check_mark:    |
-| Linux                | :white_check_mark:    |
+| My Pokémon's :white_check_mark:         |
+|:--------------------:|  
+| C#                   |
+| Java                 |  
+| .Net                 |
+| Asp Net              | 
+| Sql/T-Sql/Mysql      |        
+| Html/CSS/Javascript  |                                        
+| Bootstrap            |
+| Linux                |
 
