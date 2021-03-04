@@ -9,7 +9,7 @@
 - 💡 Things I want to try... Test automation using an API
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
-| Knowlage             |    My Pokémon's       |
+| My Pokémon's         |   :mortar_board:      |
 |:--------------------:|:---------------------:|     
 | C#                   | :white_check_mark:    | 
 | Java                 | :white_check_mark:    |   
