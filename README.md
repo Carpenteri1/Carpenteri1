@@ -16,7 +16,8 @@
 | .Net                 |
 | Asp Net              | 
 | Sql/T-Sql/Mysql      |        
-| Html/CSS/Javascript  |                                        
+| Html/CSS/Javascript  | 
+| Jquery               |
 | Bootstrap            |
 | Linux                |
 
