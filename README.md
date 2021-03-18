@@ -7,6 +7,10 @@
 - 💡 Things I want to try... Test automation using an API
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
+
+
 | My Pokémon's :white_check_mark:         |
 |:--------------------:|  
 | C#                   |
@@ -19,4 +23,4 @@
 | Bootstrap            |
 | Linux                |
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
+
