@@ -1,6 +1,6 @@
 ### Welcome to my github page 🖖 
 
-- 🔭 I’m currently working on ... [meranbaragolf.se](https://meranbaragolf.se/) and Iv also writen my own CMS for the site [CMS](https://admin.meranbaragolf.se/Login) 
+- 🔭 I’m currently working on ... [meranbaragolf.se](https://meranbaragolf.se/) and Iv also writen my very own CMS for the site. Can show this on request.
 - 🎓 I’m currently learning ... More about [.Net](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) 
 - 💬 Ask me about... Anything
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/) , [React](https://reactjs.org/) and [C++](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-160)
