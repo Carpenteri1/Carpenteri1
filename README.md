@@ -1,6 +1,6 @@
 ### Welcome to my github page 🖖 
 
-- 🔭 I’m currently working on ... [meranbaragolf.se](https://meranbaragolf.se/) and Iv also writen my very own CMS for the site, can be shown on request.
+- 🔭 I’m currently working on ... My master 
 - 🎓 I’m currently learning ... More about [Php](https://www.php.net/) 
 - 💬 Ask me about... Anything
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/) , [React](https://reactjs.org/) and [Php](https://www.php.net/)
