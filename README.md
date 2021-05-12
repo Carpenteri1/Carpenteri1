@@ -15,7 +15,7 @@
 |:--------------------:|  
 | C#                   |
 | Java                 |  
-| .Net                 |
+| .Net Core/Framework  |
 | Asp Net              | 
 | Sql/T-Sql/Mysql      |        
 | Html/CSS/Javascript  | 
