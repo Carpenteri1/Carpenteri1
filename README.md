@@ -22,6 +22,6 @@
 | Jquery               |
 | Anguler              |
 | Bootstrap            |
-| Linux/Windwos/Mac    |
+| Linux/Windows/Mac    |
 
 
