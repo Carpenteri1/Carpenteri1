@@ -20,7 +20,6 @@
 | Sql/T-Sql/Mysql      |        
 | Html/CSS/Javascript  | 
 | Jquery               |
-| Anguler              |
 | Bootstrap            |
 | Linux/Windows/Mac    |
 
