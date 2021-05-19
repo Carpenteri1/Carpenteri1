@@ -1,7 +1,7 @@
 ### Welcome to my github page 🖖 
 
-- 🔭 I’m currently working on ... [My master](https://github.com/users/Carpenteri1/projects/6?add_cards_query=is%3Aopen) 
-- 🎓 I’m currently learning ... More about [Php](https://www.php.net/) 
+- 🔭 I’m currently working on ... [My master](https://github.com/Carpenteri1/CampusBookingConcept) 
+- 🎓 I’m currently learning ... More about [.Net](https://dotnet.microsoft.com/) 
 - 💬 Ask me about... Anything
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/) , [React](https://reactjs.org/) and [Php](https://www.php.net/)
 - 💡 Things I want to try... Test automation using an API
