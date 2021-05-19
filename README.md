@@ -17,7 +17,7 @@
 | Java                 |  
 | .Net Core/Framework  |
 | AspNet/AdoNet        | 
-| EF core / Framework  | 
+| EF Core / Framework  | 
 | Sql/T-Sql/Mysql      |        
 | Html/CSS/Javascript  | 
 | Jquery               |
