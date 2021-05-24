@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... [My master](https://github.com/Carpenteri1/CampusBookingConcept) 
 - 🎓 I’m currently learning ... More about [React](https://reactjs.org/ ) and [Angular](https://angular.io/)
 - 💬 Ask me about... Anything
-- 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [vuejs](https://vuejs.org/) or [React](https://reactjs.org/)
+- 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/)
 - 💡 Things I want to try... Test automation using an API
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
