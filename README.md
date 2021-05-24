@@ -13,16 +13,16 @@
 
 | My Pokémon's :white_check_mark:         |
 |:--------------------:|  
-| C#,Java,Javascript,Typescript                   |
-|                      |  
+|                      |
+|C#,Java,Javascript    |  
 | .Net Core/Framework  |
-| AspNet/AdoNet        | 
+| AspNet,AdoNet        | 
 | EF Core / Framework  | 
-| Sql/T-Sql/Mysql      |        
+| Sql/T-Sql            |
+| Mysql,MSSQL          |
 | Html/CSS/Bootstrap   | 
-| Jquery               |
-| Javascript/TypeScript|
-| Anguler.js / React.js|
+| Jquery,Typescript    |
+| Anguler.js,React.js  |
 | Linux/Windows/Mac    |
 
 
