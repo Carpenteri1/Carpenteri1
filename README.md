@@ -14,7 +14,8 @@
 | My Pokémon's :white_check_mark:         |
 |:--------------------:|  
 |                      |
-| C#, Java, Javascript, Jquery   |  
+| C#, Java, Javascript   |  
+| JQuery, Ajax                    |
 | .Net Core/Framework  |
 | AspNet, AdoNet        | 
 | EF Core / Framework  | 
