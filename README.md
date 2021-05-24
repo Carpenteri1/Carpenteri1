@@ -14,14 +14,13 @@
 | My Pokémon's :white_check_mark:         |
 |:--------------------:|  
 |                      |
-| C#, Java, Javascript    |  
+| C#, Java, Javascript, Jquery   |  
 | .Net Core/Framework  |
 | AspNet, AdoNet        | 
 | EF Core / Framework  | 
 | Sql, T-Sql            |
 | Mysql, MSSQL          |
-| Html,CSS, Bootstrap   | 
-| Jquery, Typescript    |
+| Html, CSS, Bootstrap   | 
 | Anguler.js, React.js  |
 | Linux, Windows, Mac    |
 
