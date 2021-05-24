@@ -1,7 +1,7 @@
 ### Welcome to my github page 🖖 
 
 - 🔭 I’m currently working on ... [My master](https://github.com/Carpenteri1/CampusBookingConcept) 
-- 🎓 I’m currently learning ... More about [React](https://reactjs.org/ ) 
+- 🎓 I’m currently learning ... More about [React](https://reactjs.org/ ) and [Angular](https://angular.io/)
 - 💬 Ask me about... Anything
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/) or [React](https://reactjs.org/)
 - 💡 Things I want to try... Test automation using an API
