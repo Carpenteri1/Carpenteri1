@@ -13,8 +13,8 @@
 
 | My Pokémon's :white_check_mark:         |
 |:--------------------:|  
-| C#                   |
-| Java                 |  
+| C#,Java,Javascript,Typescript                   |
+|                      |  
 | .Net Core/Framework  |
 | AspNet/AdoNet        | 
 | EF Core / Framework  | 
