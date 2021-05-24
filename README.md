@@ -19,9 +19,10 @@
 | AspNet/AdoNet        | 
 | EF Core / Framework  | 
 | Sql/T-Sql/Mysql      |        
-| Html/CSS/Javascript  | 
+| Html/CSS/Bootstrap   | 
 | Jquery               |
-| Bootstrap            |
+| Javascript/TypeScript|
+| Anguler.js / React.js|
 | Linux/Windows/Mac    |
 
 
