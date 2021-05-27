@@ -22,6 +22,7 @@
 | Sql, T-Sql            |
 | Mysql, MSSQL          |
 | Html, CSS, Bootstrap   | 
+| MVC, Blazor wasm/server   | 
 | Anguler.js, React.js  |
 | Linux, Windows, Mac    |
 
