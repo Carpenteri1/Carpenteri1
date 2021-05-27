@@ -5,7 +5,7 @@
 - ✊ Last big project ... [Frontend Client](https://meranbaragolf.se/), Written my very own [CMS](https://admin.meranbaragolf.se/Login)
 - 💬 Ask me about... Anything
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/)
-- 💡 Things I want to try... write porfolia with react.js,
+- 💡 Things I want to try... write porfolia with [React](https://reactjs.org/),
 - ⚡ Fun fact: ... Love gaming and maybe a bit to obsessive over cats
 
 
