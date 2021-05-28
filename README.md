@@ -1,7 +1,7 @@
 ### Welcome to my github page 🖖 
 
 - 🔭 I’m currently working on ... My master [Client Project](https://github.com/Carpenteri1/CampusBookingConcept) || [API project](https://github.com/Carpenteri1/CampusBookingAPI) || [Progress](https://github.com/users/Carpenteri1/projects/7)
-- ✊ Last big project ... [Frontend Client](https://meranbaragolf.se/)
+- ✊ Last big project ... [Mer än bara golf](https://meranbaragolf.se/)
 - 🎓 I’m currently learning ... More about [React](https://reactjs.org/ ) and [Angular](https://angular.io/)
 - 💬 Ask me about... Anything
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/)
