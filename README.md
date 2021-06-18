@@ -19,7 +19,7 @@
 | JQuery, Ajax                    |
 | .Net Core/Framework  |
 | AspNet, AdoNet        | 
-| EF Core / Framework  | 
+| EF Core / Framework / Dapper | 
 | Sql, T-Sql            |
 | Mysql, MSSQL          |
 | Html, CSS, Bootstrap   | 
