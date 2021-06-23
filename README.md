@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... My [Portfolio](https://carpenteri1.github.io/Portfolio/) and more angular stuff along with it. Source code [here](https://github.com/Carpenteri1/Portfolio)
 - ✊ Last big projects ... [Mer än bara golf](https://meranbaragolf.se/) | My master [Client Project](https://github.com/Carpenteri1/CampusBookingConcept) || [API project](https://github.com/Carpenteri1/CampusBookingAPI) || [Progress](https://github.com/users/Carpenteri1/projects/7)
-- 🎓 I’m currently learning ... More about [Angular](https://angular.io/)
+- 🎓 I’m currently learning ... More about [Angular](https://angular.io/) and typescript
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/), cloud development, wpf and xamarin
 - 💡 Things I want to try... write porfolia with [React](https://reactjs.org/),
 - 💬 Ask me about... Anything
