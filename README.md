@@ -16,15 +16,17 @@
 |:--------------------:|  
 |                      |
 | C#, Java, Javascript, Typescript |  
-| JQuery, Ajax                    |
 | .Net Core/Framework  |
+| JQuery, Ajax                    |
 | AspNet, AdoNet        | 
+| Xamarin |
 | EF Core / Framework / Dapper | 
 | Sql, T-Sql            |
 | Mysql, MSSQL          |
 | Html, CSS, Bootstrap   | 
 | MVC, Blazor wasm / server   | 
-| Anguler.js, React.js  |
+| Android Studio / Visual Studio / Code / Jet Brain | 
+| Anguler.js |
 | Linux, Windows, Mac    |
 
 
