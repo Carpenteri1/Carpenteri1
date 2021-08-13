@@ -6,7 +6,7 @@
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Kotlin](https://kotlinlang.org/) , [F#](https://fsharp.org/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/), cloud development, wpf and [xamarin](https://dotnet.microsoft.com/apps/xamarin)
 - 💡 Things I want to try... Write [portfolio](https://carpenteri1.github.io/Portfolio/) with [Angular](https://angular.io/),
 - ⛽ What drives me... Curiosity and the ability to create
-- 👑 End goal... I want to go fullstack, develop apps, websites and programs for windows,mac,linux, to cloud, localy or to whatever the future holds.
+- 👑 End goal... Fullstack, develop apps, websites and programs for windows,mac,linux, to cloud, localy or to whatever the future holds.
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats
 
 
