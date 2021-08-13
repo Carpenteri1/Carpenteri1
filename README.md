@@ -4,7 +4,7 @@
 - ✊ Last big projects ... [Mer än bara golf](https://meranbaragolf.se/) | My master [Client Project](https://github.com/Carpenteri1/CampusBookingConcept) || [API project](https://github.com/Carpenteri1/CampusBookingAPI) || [Progress](https://github.com/users/Carpenteri1/projects/7)
 - 🎓 I’m currently learning ... [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Android Studio](https://developer.android.com/studio/)
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/) , [Kotlin](https://kotlinlang.org/) , [F#](https://fsharp.org/) , [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/), cloud development, wpf and [xamarin](https://dotnet.microsoft.com/apps/xamarin)
-- 💡 Things I want to try... write [portfolio](https://carpenteri1.github.io/Portfolio/) with [Angular](https://angular.io/),
+- 💡 Things I want to try... Write [portfolio](https://carpenteri1.github.io/Portfolio/) with [Angular](https://angular.io/),
 - ⛽ What drives me... Curiosity and the ability to create
 - 👑 End goal... I want to go fullstack, end be able to develop apps, websites and programs for pc
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats
