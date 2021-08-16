@@ -20,7 +20,7 @@
 | .Net Core/Framework  |
 | JQuery, Ajax                    |
 | AspNet, AdoNet        | 
-| Xamarin, Android with Java |
+| Xamarin.Classic, Xamarin.Form, Android with Java |
 | EF Core / Framework / Dapper | 
 | Sql, T-Sql            |
 | Mysql, MSSQL          |
