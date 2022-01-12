@@ -22,9 +22,11 @@
 | AspNet, AdoNet        | 
 | Xamarin.Classic, Xamarin.Form, Android with Java |
 | EF Core / Framework / Dapper | 
+| API, restful, CRUD    |
+| JSON, XML |
 | Sql, T-Sql            |
 | Mysql, MSSQL          |
-| Html, CSS, Bootstrap   | 
+| Html, CSS, Bootstrap, Android XML   | 
 | MVC, Blazor wasm / server   | 
 | Android Studio / Visual Studio / Code / Jet Brain | 
 | Anguler.js |
