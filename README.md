@@ -21,7 +21,7 @@
 | JQuery, Ajax                    |
 | AspNet, AdoNet        | 
 | Xamarin.Classic / Form, Android |
-| EF Core / Framework / Dapper | 
+| EF Core / Dapper | 
 | API, restful, CRUD    |
 | JSON, XML |
 | Sql, T-Sql            |
