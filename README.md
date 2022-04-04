@@ -25,7 +25,7 @@
 | API, restful, CRUD    |
 | JSON, XML |
 | Sql, T-Sql            |
-| Mysql, MSSQL          |
+| Mysql, MSSQL,Azure Database          |
 | Html, CSS, Bootstrap, Android XML   | 
 | MVC, Blazor wasm / server   | 
 | Android Studio / Visual Studio / Code / Jet Brain | 
