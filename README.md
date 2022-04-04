@@ -16,20 +16,20 @@
 | My Pokémon :white_check_mark:         |
 |:--------------------:|  
 |                      |
-| C#, Java, Javascript, TypeScript |  
+| C#, Java, Javascript |  
 | .Net Core/Framework  |
 | JQuery, Ajax                    |
 | AspNet, AdoNet        | 
 | Xamarin.Classic / Form, Android |
 | EF Core / Dapper | 
-| API, restful, CRUD    |
+| API, restful    |
 | JSON, XML |
 | Sql, T-Sql            |
 | Mysql, MSSQL,Azure Database          |
-| Html, CSS, Bootstrap, Android XML   | 
+| Html, CSS, Bootstrap  | 
 | MVC, Blazor wasm / server   | 
 | VS / VS Code / Jet Brain | 
-| Anguler.js |
+| Angular, TypeScript |
 | Linux, Windows, Mac    |
 
 
