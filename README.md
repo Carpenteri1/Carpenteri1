@@ -20,7 +20,7 @@
 | .Net Core/Framework  |
 | JQuery, Ajax                    |
 | AspNet, AdoNet        | 
-| Xamarin.Classic / Form, Android with Java |
+| Xamarin.Classic / Form, Android |
 | EF Core / Framework / Dapper | 
 | API, restful, CRUD    |
 | JSON, XML |
