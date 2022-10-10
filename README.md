@@ -1,6 +1,6 @@
 <pre>                                                  Welcome to my github page 🖖 </pre>
       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories) 
 
 - 💻 I’m currently working on ... Customer projects back on GitLab. Customer projects are in [xamarin](https://dotnet.microsoft.com/apps/xamarin).
 Personal projects here on github have been on hold for a bit. Will soon TM post some new stuff here.
