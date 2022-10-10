@@ -11,8 +11,9 @@ Personal projects here on github have been on hold for a bit. Will soon TM post 
 - ⛽ What drives me... Curiosity and the ability to create
 - 👑 End goal... Fullstack, develop apps, websites and programs for windows,mac,linux, to cloud, localy or to whatever the future holds. I want to stay broad in my knowlage and having many tools to solve the problems I face.
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats
+<pre>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| My Pokémon :white_check_mark:         |
+| My Pokémon :white_check_mark:         |
 |:--------------------:|  
 |                      |
 | C#, Java, Javascript |  
@@ -30,5 +31,6 @@ Personal projects here on github have been on hold for a bit. Will soon TM post 
 | VS / VS Code / Jet Brain | 
 | Angular, TypeScript |
 | Linux, Windows, Mac    |
+</pre>
 
 
