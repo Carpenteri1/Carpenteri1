@@ -1,10 +1,14 @@
-<pre>                                                  Welcome to my github page 🖖 </pre>
+<br/>
 
+<h3 align="center"><pre>Welcome to my github page 🖖</pre></h3>
 
-      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories) 
+<br/>
 
-- 💻 I’m currently working on ... Customer projects back on GitLab. Customer projects are in [xamarin](https://dotnet.microsoft.com/apps/xamarin).
+![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)       
+
+<br/>
+    
+  - 💻 I’m currently working on ... Customer projects back on GitLab. Customer projects are in [xamarin](https://dotnet.microsoft.com/apps/xamarin).
 Personal projects here on github have been on hold for a bit. Will soon TM post some new stuff here.
 - ✊ Last big projects ... [Mer än bara golf](https://meranbaragolf.se/) | My master [Client Project](https://github.com/Carpenteri1/CampusBookingConcept) || [API project](https://github.com/Carpenteri1/CampusBookingAPI) || Customer Projects at [Optidev](https://optidev.com)
 - 🎓 I’m currently learning ... [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Android](https://developer.android.com/studio/) with Java
@@ -12,8 +16,10 @@ Personal projects here on github have been on hold for a bit. Will soon TM post 
 - 💡 Things I want to try... Write [portfolio](https://carpenteri1.github.io/Portfolio/)(work in progress) with [Angular](https://angular.io/),
 - ⛽ What drives me... Curiosity and the ability to create
 - 👑 End goal... Fullstack, develop apps, websites and programs for windows,mac,linux, to cloud, localy or to whatever the future holds. I want to stay broad in my knowlage and having many tools to solve the problems I face.
-- ⚡ Fun fact: ... I'm a bit to obsessive over cats
+- ⚡ Fun fact: ... I'm a bit to obsessive over cats    
 
+<br/>
+      
 | My Pokémon :white_check_mark:         |
 |:--------------------:|  
 |                      |
@@ -32,3 +38,7 @@ Personal projects here on github have been on hold for a bit. Will soon TM post 
 | VS / VS Code / Jet Brain | 
 | Angular, TypeScript |
 | Linux, Windows, Mac    |
+
+
+
+
