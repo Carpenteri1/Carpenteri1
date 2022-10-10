@@ -1,5 +1,7 @@
 ### Welcome to my github page 🖖 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
+
 - 💻 I’m currently working on ... Customer projects back on GitLab. Customer projects are in [xamarin](https://dotnet.microsoft.com/apps/xamarin).
 Personal projects here on github have been on hold for a bit. Will soon TM post some new stuff here.
 - ✊ Last big projects ... [Mer än bara golf](https://meranbaragolf.se/) | My master [Client Project](https://github.com/Carpenteri1/CampusBookingConcept) || [API project](https://github.com/Carpenteri1/CampusBookingAPI) || Customer Projects at [Optidev](https://optidev.com)
@@ -9,10 +11,6 @@ Personal projects here on github have been on hold for a bit. Will soon TM post 
 - ⛽ What drives me... Curiosity and the ability to create
 - 👑 End goal... Fullstack, develop apps, websites and programs for windows,mac,linux, to cloud, localy or to whatever the future holds. I want to stay broad in my knowlage and having many tools to solve the problems I face.
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories)
-
 
 | My Pokémon :white_check_mark:         |
 |:--------------------:|  
