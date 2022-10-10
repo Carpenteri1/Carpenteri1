@@ -1,5 +1,5 @@
-### Welcome to my github page 🖖 
-<pre>      ![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories) </pre>
+<pre>               ### Welcome to my github page 🖖 </pre>
+      ![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories) 
 
 
 - 💻 I’m currently working on ... Customer projects back on GitLab. Customer projects are in [xamarin](https://dotnet.microsoft.com/apps/xamarin).
