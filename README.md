@@ -8,8 +8,7 @@
 
 <br/>
     
-  - 💻 I’m currently working on ... Customer projects back at devOps for [Prevas](https://www.prevas.se).
-Personal projects here on github have been on hold for a bit. Will soon TM post some new stuff here.
+- 💻 I’m currently working on ... Customer projects back at devOps for [Prevas](https://www.prevas.se).
 - ✊ Last big projects ... Customer Projects at [Prevas](https://www.prevas.se)
 - 🎓 I’m currently learning ... [Angular](https://angular.io)
 - 📖 Want to learn more about... [.Net](https://dotnet.microsoft.com/), [Java](https://docs.oracle.com/en/java/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/) or [React](https://reactjs.org/), cloud development, [wpf](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019) and [xamarin](https://dotnet.microsoft.com/apps/xamarin), [Maui](https://dotnet.microsoft.com/en-us/apps/maui), [Kubernetes](https://kubernetes.io), (AvaloniaUI)[https://avaloniaui.net]
