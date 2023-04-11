@@ -8,7 +8,7 @@
 
 <br/>
     
-  - 💻 I’m currently working on ... Customer projects back on GitLab. Customer projects are in [xamarin](https://dotnet.microsoft.com/apps/xamarin).
+  - 💻 I’m currently working on ... Customer projects back at devOps for [Prevas](https://www.prevas.se).
 Personal projects here on github have been on hold for a bit. Will soon TM post some new stuff here.
 - ✊ Last big projects ... Customer Projects at [Prevas](https://www.prevas.se)
 - 🎓 I’m currently learning ... [Angular](https://angular.io)
