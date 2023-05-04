@@ -29,7 +29,7 @@
 | Xamarin.Classic / Form, Android |
 | EF Core / Dapper | 
 | API, restful    |
-| JSON, XML |
+| JSON, XML, Yalm |
 | Sql, T-Sql            |
 | Mysql, MSSQL,Azure Database          |
 | Html, CSS, Bootstrap  | 
@@ -37,6 +37,10 @@
 | VS / VS Code / Jet Brain | 
 | Angular, TypeScript |
 | Linux, Windows, Mac    |
+| Docker    |
+| Rancher, Yatch    |
+
+
 
 
 
