@@ -39,6 +39,7 @@
 | Linux, Windows, Mac    |
 | Docker    |
 | Rancher, Yatch    |
+| Kibana    |
 
 
 
