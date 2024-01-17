@@ -3,11 +3,6 @@
 <h3 align="center"><pre>Welcome to my github page 🖖</pre></h3>
 
 <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=carpenteri1&theme=monokai&title=Issues,Commit,PullRequest,Repositories) 
-
-  
-
-<br/>
     
 - 💻 I’m currently working on ... Projects back at gitlab for [Worldline](https://worldline.com) and my own project [Portfolio](https://github.com/Carpenteri1/Portfolio)
 - ✊ Last big projects ... Projects at [Worldline](https://worldline.com) and [Portfolio](https://github.com/Carpenteri1/Portfolio)
@@ -19,7 +14,6 @@
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats    
 
 <br/>
-<h3 align="center">      
     
 | My Pokémon :white_check_mark:         |
 |:--------------------:|  
@@ -43,7 +37,6 @@
 | Rancher, Yatch    |
 | Kibana    |
 
-</h3>
 
 
 
