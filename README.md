@@ -38,8 +38,6 @@
 | Rancher, Yatch    |
 | Prometheus |
 | Kibana |
-| Kibana    |
-
 
 
 
