@@ -19,13 +19,13 @@
 |:--------------------:|  
 | .Net Core/Framework  |
 | Xamarin.Classic / Form, Android |
+| MVC, Blazor wasm / server   | 
 | EF Core / Dapper | 
 | API, restful    |
 | JSON, XML, Yalm |
 | Sql, T-Sql            |
-| Mysql, MSSQL,Azure Database          |
+| Different types of SQL-software          |
 | Html, CSS, Bootstrap  | 
-| MVC, Blazor wasm / server   | 
 | VS / VS Code / JetBrain | 
 | Angular |
 | Vue.js |
