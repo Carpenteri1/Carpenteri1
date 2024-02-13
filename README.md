@@ -26,7 +26,7 @@
 | Mysql, MSSQL,Azure Database          |
 | Html, CSS, Bootstrap  | 
 | MVC, Blazor wasm / server   | 
-| VS / VS Code / Jet Brain | 
+| VS / VS Code / JetBrain | 
 | Angular |
 | Vue.js |
 | TypeScript |
