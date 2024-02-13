@@ -31,7 +31,7 @@
 | Vue.js |
 | TypeScript |
 | Javascript |
-| Java ¦
+| Java |
 | Windows, Mac    |
 | Different Linux os, server / desktop | 
 | Docker    |
