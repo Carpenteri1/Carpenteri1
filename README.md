@@ -24,7 +24,7 @@
 | API, restful    |
 | JSON, XML, Yalm |
 | Sql, T-Sql            |
-| Different types of SQL-software          |
+| Been using different types of SQL-software, atm HeideSql          |
 | Html, CSS, Bootstrap  | 
 | VS / VS Code / JetBrain | 
 | Angular |
@@ -33,7 +33,7 @@
 | Javascript |
 | Java |
 | Windows, Mac    |
-| Different Linux os, server / desktop | 
+| Been using different types ofLinux os, server / desktop | 
 | Docker    |
 | Rancher, Yatch    |
 | Prometheus |
