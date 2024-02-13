@@ -36,6 +36,8 @@
 | Different Linux os, server / desktop | 
 | Docker    |
 | Rancher, Yatch    |
+| Prometheus |
+| Kibana |
 | Kibana    |
 
 
