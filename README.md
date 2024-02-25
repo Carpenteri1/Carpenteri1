@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats    
 
 <br/>
-<div align="center">
+<div align="right">
     
 | My Pokémon :white_check_mark:         |
 |:--------------------:|  
