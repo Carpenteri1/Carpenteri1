@@ -14,6 +14,7 @@
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats    
 
 <br/>
+<div align="center">
     
 | My Pokémon :white_check_mark:         |
 |:--------------------:|  
@@ -38,6 +39,9 @@
 | Rancher, Yatch    |
 | Prometheus |
 | Kibana |
+
+</div>    
+
 
 
 
