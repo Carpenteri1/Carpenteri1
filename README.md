@@ -39,6 +39,7 @@
 | Rancher, Yatch    |
 | Prometheus |
 | Kibana |
+| AWS |
 
 </div>    
 
