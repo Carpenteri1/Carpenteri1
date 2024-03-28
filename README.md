@@ -24,7 +24,7 @@
 | Xamarin.Classic / Form, Android | Löve2d |
 | MVC, Blazor wasm / server   | AWS | 
 | EF Core / Dapper | Yalm |
-| API, restful    |
+| API, restful    | Java | 
 | JSON, XML, Yalm |
 | Sql, T-Sql            |
 | SQL-softwares, HeideSql atm         |
@@ -34,7 +34,6 @@
 | Vue.js |
 | TypeScript |
 | Javascript |
-| Java |
 | Windows, Mac    |
 | Different types of Linux, server / desktop | 
 | Docker    |
