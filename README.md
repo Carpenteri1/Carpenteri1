@@ -18,7 +18,7 @@
 
 <div align="center">
     
-| My Pokémon :white_check_mark:         | Come in contact with
+| My Pokémon :white_check_mark:         | My Encounters 🌐
 |:--------------------:|:--------------------:|  
 | .Net Core/Framework  | LUA |
 | Xamarin.Classic / Form, Android | Löve2d |
