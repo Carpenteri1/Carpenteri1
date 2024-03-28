@@ -16,18 +16,18 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
     
-| My Pokémon :white_check_mark:         |
-|:--------------------:|  
-| .Net Core/Framework  |
-| Xamarin.Classic / Form, Android |
-| MVC, Blazor wasm / server   | 
-| EF Core / Dapper | 
+| My Pokémon :white_check_mark:         | Come in contact with
+|:--------------------:|:--------------------:|  
+| .Net Core/Framework  | LUA |
+| Xamarin.Classic / Form, Android | Löve2d |
+| MVC, Blazor wasm / server   | AWS | 
+| EF Core / Dapper | Yalm |
 | API, restful    |
 | JSON, XML, Yalm |
 | Sql, T-Sql            |
-| Different types of SQL-software, HeideSql atm         |
+| SQL-softwares, HeideSql atm         |
 | Html, CSS, Bootstrap  | 
 | VS / VS Code / JetBrain | 
 | Angular |
@@ -41,37 +41,6 @@
 | Rancher, Yatch    |
 | Prometheus |
 | Kibana |
-| AWS |
-
-</div>    
-
-<div align="right">
-    
-| My Pokémon :white_check_mark:         |
-|:--------------------:|  
-| .Net Core/Framework  |
-| Xamarin.Classic / Form, Android |
-| MVC, Blazor wasm / server   | 
-| EF Core / Dapper | 
-| API, restful    |
-| JSON, XML, Yalm |
-| Sql, T-Sql            |
-| Different types of SQL-software, HeideSql atm         |
-| Html, CSS, Bootstrap  | 
-| VS / VS Code / JetBrain | 
-| Angular |
-| Vue.js |
-| TypeScript |
-| Javascript |
-| Java |
-| Windows, Mac    |
-| Different types of Linux, server / desktop | 
-| Docker    |
-| Rancher, Yatch    |
-| Prometheus |
-| Kibana |
-| AWS |
-
 </div>    
 
 
