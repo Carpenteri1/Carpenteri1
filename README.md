@@ -15,6 +15,36 @@
 - ⚡ Fun fact: ... I'm a bit to obsessive over cats    
 
 <br/>
+
+<div align="left">
+    
+| My Pokémon :white_check_mark:         |
+|:--------------------:|  
+| .Net Core/Framework  |
+| Xamarin.Classic / Form, Android |
+| MVC, Blazor wasm / server   | 
+| EF Core / Dapper | 
+| API, restful    |
+| JSON, XML, Yalm |
+| Sql, T-Sql            |
+| Different types of SQL-software, HeideSql atm         |
+| Html, CSS, Bootstrap  | 
+| VS / VS Code / JetBrain | 
+| Angular |
+| Vue.js |
+| TypeScript |
+| Javascript |
+| Java |
+| Windows, Mac    |
+| Different types of Linux, server / desktop | 
+| Docker    |
+| Rancher, Yatch    |
+| Prometheus |
+| Kibana |
+| AWS |
+
+</div>    
+
 <div align="right">
     
 | My Pokémon :white_check_mark:         |
