@@ -1,12 +1,12 @@
 <h3 align="center"><pre>Welcome to my github page 🖖</pre></h3>
 
 ## Software Engineer 💻:
-![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=black)
 
 ### Frameworks:
 ![VueJs](https://img.shields.io/badge/-Vue.js-3ca877?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-C21F1A?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=black)
 
 ### Languages
 ![C#](https://img.shields.io/badge/-CSharp-1572B6?style=for-the-badge&logo=c)
