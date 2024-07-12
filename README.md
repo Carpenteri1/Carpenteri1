@@ -3,12 +3,12 @@
 ## Software Engineer 💻:
 ![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=black)
 
-#### Frameworks:
+### Frameworks:
 ![VueJs](https://img.shields.io/badge/-Vue.js-3ca877?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-C21F1A?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Languages
+### Languages
 ![C#](https://img.shields.io/badge/-CSharp-1572B6?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)<br>
@@ -18,11 +18,11 @@
 ![Json](https://img.shields.io/badge/-Json-1572B6?style=for-the-badge&logo=json)
 ![Bash](https://img.shields.io/badge/-console-1572B6?style=for-the-badge&logo=console)
 
-#### 🙊 - Database:
+### Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🐵 - Hosting Services and Web Tools:
+### Hosting Services:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AIS](https://img.shields.io/badge/AIS-232F3E?style=for-the-badge&logo=amazon-AIS&logoColor=white)
 
