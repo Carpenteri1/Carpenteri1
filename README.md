@@ -1,6 +1,6 @@
 <h3 align="center"><pre>Welcome to my github page 🖖</pre></h3>
 
-## Software Engineer 💻:
+# :gear: Technologies :
 
 ### Frameworks:
 ![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=black)
