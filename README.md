@@ -15,8 +15,8 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Json](https://img.shields.io/badge/-Json-1572B6?style=for-the-badge&logo=json)
-![Bash](https://img.shields.io/badge/-console-1572B6?style=for-the-badge&logo=console)
+![Shell Script](https://img.shields.io/badge/Shell_Script-232F3E?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Json](https://img.shields.io/badge/-Json-7f9d67?style=for-the-badge&logo=json)
 
 ### Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -29,8 +29,8 @@
 ### DevOps ♾️:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)<br>
-![GitHub](https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=GitHub&logoColor=white)<br>
+![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Octopus](https://img.shields.io/badge/octopus-336791?style=for-the-badge&logo=octopus-deploy&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-372bbf?style=for-the-badge&logo=teamcity&logoColor=white)<br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -41,7 +41,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-336791?style=for-the-badge&logo=fedora&logoColor=white)
 ![Mac](https://img.shields.io/badge/Mac-336791?style=for-the-badge&logo=apple&logoColor=white)<br>
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
