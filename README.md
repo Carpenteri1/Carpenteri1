@@ -1,13 +1,6 @@
-<br/>
-
 <h3 align="center"><pre>Welcome to my github page 🖖</pre></h3>
 
-<br/>
-
-
-## 🔨 Languages & Frameworks & Skills ⭐️:
-
-### Software Engineer 💻:
+## Software Engineer 💻:
 ![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=black)
 
 #### Frameworks:
@@ -23,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Json](https://img.shields.io/badge/-Json-1572B6?style=for-the-badge&logo=json)
-![Bash](https://img.shields.io/badge/-bash-1572B6?style=for-the-badge&logo=bash)
+![Bash](https://img.shields.io/badge/-console-1572B6?style=for-the-badge&logo=console)
 
 #### 🙊 - Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -37,11 +30,12 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Octopus](https://img.shields.io/badge/octopus-336791?style=for-the-badge&logo=octopus-deploy&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-372bbf?style=for-the-badge&logo=teamcity&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-F24E1E?style=for-the-badge&logo=Kibana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-F24E1E?style=for-the-badge&logo=Docker&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-f04e98?style=for-the-badge&logo=Kibana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-336791?style=for-the-badge&logo=Docker&logoColor=white)
 
 ### OS:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -51,7 +45,7 @@
 
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
+![JetBrains-Rider](https://img.shields.io/badge/rider-f5016f.svg?style=for-the-badge&logo=rider&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
