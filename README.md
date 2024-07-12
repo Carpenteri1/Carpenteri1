@@ -3,15 +3,15 @@
 # :gear: Technologies :
 
 ### Frameworks:
-![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=black)
+![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VueJs](https://img.shields.io/badge/-Vue.js-3ca877?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-C21F1A?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Languages
-![C#](https://img.shields.io/badge/-CSharp-1572B6?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/-CSharp-1572B6?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)<br>
+![Typescript](https://img.shields.io/badge/-Typescript-336791?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
