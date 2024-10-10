@@ -24,7 +24,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Hosting Services:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AIS](https://img.shields.io/badge/AIS-232F3E?style=for-the-badge&logo=amazon-AIS&logoColor=white)
 
 ### DevOps ♾️:
