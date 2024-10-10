@@ -3,7 +3,8 @@
 # :gear: Technologies :
 
 ### Frameworks:
-![Net](https://img.shields.io/badge/dotnet-ac99ea?style=for-the-badge&logo=dotnet&logoColor=white)
+![Net](https://img.shields.io/badge/Net-ac99ea?style=for-the-badge&logo=dotnet&logoColor=white)
+![AspNet](https://img.shields.io/badge/AspNet-ac30ea?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VueJs](https://img.shields.io/badge/-Vue.js-3ca877?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-C21F1A?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
