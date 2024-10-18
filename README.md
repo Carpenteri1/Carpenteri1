@@ -35,7 +35,7 @@
 ![TeamCity](https://img.shields.io/badge/teamcity-372bbf?style=for-the-badge&logo=teamcity&logoColor=white)<br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-f04e98?style=for-the-badge&logo=Kibana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-336791?style=for-the-badge&logo=Docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-5395FD?style=for-the-badge&logo=Rancher&logoColor=white)
 
 ### OS:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
