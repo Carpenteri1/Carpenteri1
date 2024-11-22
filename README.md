@@ -18,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-232F3E?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Json](https://img.shields.io/badge/-Json-7f9d67?style=for-the-badge&logo=json)
+![Yaml](https://img.shields.io/badge/Yaml-FF6C37?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -36,6 +37,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-f04e98?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-5395FD?style=for-the-badge&logo=Rancher&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-green?style=for-the-badge&logo=npm&logoColor=white)
 
 ### OS:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
