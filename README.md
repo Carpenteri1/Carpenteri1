@@ -37,7 +37,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-f04e98?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-5395FD?style=for-the-badge&logo=Rancher&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-green?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-F7DF1E?style=for-the-badge&logo=npm&logoColor=white)
 
 ### OS:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
