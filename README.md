@@ -42,7 +42,8 @@
 ### OS:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-336791?style=for-the-badge&logo=fedora&logoColor=white)
-![Mac](https://img.shields.io/badge/Mac-336791?style=for-the-badge&logo=apple&logoColor=white)<br>
+![RedHat](https://img.shields.io/badge/Redhat-cc0000?style=for-the-badge&logo=redhat&logoColor=white)<br>
+![Mac](https://img.shields.io/badge/Mac-336791?style=for-the-badge&logo=apple&logoColor=white)
 
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
