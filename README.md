@@ -11,7 +11,6 @@
 
 ### Languages
 ![C#](https://img.shields.io/badge/-CSharp-1572B6?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-336791?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
