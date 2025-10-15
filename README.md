@@ -47,6 +47,7 @@
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
 ![JetBrains-Rider](https://img.shields.io/badge/rider-f5016f.svg?style=for-the-badge&logo=rider&logoColor=white)
+![Cursor](https://img.shields.io/badge/cursor-1b1913.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
