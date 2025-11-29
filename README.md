@@ -29,8 +29,9 @@
 ### DevOps ♾️:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=GitHub&logoColor=white)<br>
-![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)<br>
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Octopus](https://img.shields.io/badge/octopus-336791?style=for-the-badge&logo=octopus-deploy&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-372bbf?style=for-the-badge&logo=teamcity&logoColor=white)<br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -47,7 +48,7 @@
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
 ![JetBrains-Rider](https://img.shields.io/badge/rider-f5016f.svg?style=for-the-badge&logo=rider&logoColor=white)
-![Cursor](https://img.shields.io/badge/cursor-1b1913.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
