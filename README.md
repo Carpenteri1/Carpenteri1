@@ -45,6 +45,11 @@
 ![RedHat](https://img.shields.io/badge/Redhat-cc0000?style=for-the-badge&logo=redhat&logoColor=white)<br>
 ![Mac](https://img.shields.io/badge/Mac-336791?style=for-the-badge&logo=apple&logoColor=white)
 
+### AI Tools: 
+![Codex](https://img.shields.io/badge/Codex-ac30ea?style=for-the-badge&logo=codex&logoColor=white)
+![Copilot](https://img.shields.io/badge/copilot-0052CC?style=for-the-badge&logo=copilot&logoColor=white)
+![Github-MCP](https://img.shields.io/badge/github_MCP_Server-0089D6?style=for-the-badge&logo=GithubMCPServer&logoColor=white)
+
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
 ![JetBrains-Rider](https://img.shields.io/badge/rider-f5016f.svg?style=for-the-badge&logo=rider&logoColor=white)
