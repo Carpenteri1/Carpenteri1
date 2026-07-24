@@ -46,9 +46,10 @@
 ![Mac](https://img.shields.io/badge/Mac-336791?style=for-the-badge&logo=apple&logoColor=white)
 
 ### AI Tools: 
-![Codex](https://img.shields.io/badge/Codex-ac30ea?style=for-the-badge&logo=codex&logoColor=white)
-![Copilot](https://img.shields.io/badge/copilot-0052CC?style=for-the-badge&logo=copilot&logoColor=white)
-![Github-MCP](https://img.shields.io/badge/github_MCP_Server-0089D6?style=for-the-badge&logo=GithubMCPServer&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0089D6?style=for-the-badge&logo=codex&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=codex&logoColor=white)
+![Copilot](https://img.shields.io/badge/copilot-232F3E?style=for-the-badge&logo=copilot&logoColor=white)
+![MCP](https://img.shields.io/badge/mcp-0089D6?style=for-the-badge&logo=MCP&logoColor=white)
 
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vs_code&logoColor=white)
