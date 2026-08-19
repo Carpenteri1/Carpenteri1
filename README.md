@@ -31,7 +31,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)<br>
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=for-the-badge&logo=microsoftazure_devops&logoColor=white)
+![CICD](https://img.shields.io/badge/CICD-232F3E?style=for-the-badge&logo=CICD&logoColor=white)
 ![Octopus](https://img.shields.io/badge/octopus-336791?style=for-the-badge&logo=octopus-deploy&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-372bbf?style=for-the-badge&logo=teamcity&logoColor=white)<br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
