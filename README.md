@@ -8,9 +8,10 @@
 ![VueJs](https://img.shields.io/badge/-Vue.js_2.7-3ca877?style=for-the-badge&logo=vue.js&logoColor=white)<br>
 ![Angular](https://img.shields.io/badge/Angular-C21F1A?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Languages
-![C#](https://img.shields.io/badge/-CSharp-1572B6?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-csharp-1572B6?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-336791?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,8 +32,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white)<br>
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=for-the-badge&logo=microsoftazure_devops&logoColor=white)
-![CICD](https://img.shields.io/badge/CICD-232F3E?style=for-the-badge&logo=CICD&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![CICD](https://img.shields.io/badge/CI/CD-232F3E?style=for-the-badge&logo=CICD&logoColor=white)
 ![Octopus](https://img.shields.io/badge/octopus-336791?style=for-the-badge&logo=octopus-deploy&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-372bbf?style=for-the-badge&logo=teamcity&logoColor=white)<br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-F24E1E?style=for-the-badge&logo=Prometheus&logoColor=white)
